@@ -1,0 +1,24 @@
+# Environnement virtuel
+venv/
+.venv/
+env/
+
+# Clés API — NE JAMAIS PUSHER
+.env
+
+# Données collectées (trop lourdes pour Git)
+data/
+logs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.DS_Store

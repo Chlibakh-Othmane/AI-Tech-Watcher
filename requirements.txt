@@ -1,0 +1,9 @@
+langgraph==0.2.55
+langchain-core==0.3.28
+requests==2.32.3
+beautifulsoup4==4.12.3
+lxml==5.2.2
+feedparser==6.0.11
+pandas==2.2.2
+python-dotenv==1.0.1
+tqdm==4.66.4
