@@ -1,0 +1,6 @@
+framework,mentions,sentiment_moyen,score_global,rang
+langchain,2,0.1,1.7,1
+langgraph,2,0.0,1.4,2
+haystack,1,0.136,1.11,3
+autogen,1,0.0,0.7,4
+crewai,1,0.0,0.7,5
