@@ -1,0 +1,7 @@
+{
+  "entreprise": "AI Consulting Maroc",
+  "stack_actuelle": ["Python", "FastAPI"],
+  "frameworks_utilises": ["LangChain"],
+  "priorite": "automatisation IA",
+  "contraintes": ["budget réduit", "petite équipe"]
+}
